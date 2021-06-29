@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000",
+  "Organization": null,
+  "ProjectKey": "Web_API_Prueba",
+  "ProjectName": "Web_API_Prueba",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXpYoDHs7m4iqLpAy_2K",
+      "ProfileTimestamp": "2021-06-29T16:35:31Z"
+    }
+  }
+}
