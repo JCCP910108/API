@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJcBoKlavUwfJ1VdceiHeqpHt8ymuICp4yCTTib9BT3qGcn+E7caxHem9OK/Q4TIgfZPTylM5+NslXufvak5pw==",
+  "dgSpecHash": "Mf9uAqWG5KANDvxbJZ49fIriugig2/QyKCfqt512DvqUaukz4L1kCzMsCzs++So3akkPIn6E0h18yWRXsJsyIw==",
   "success": true,
-  "projectFilePath": "D:\\Julio_Castro\\Proyectos\\API_NET_Core\\Web_API_Net_Core\\Web_API_Prueba.csproj",
+  "projectFilePath": "C:\\Users\\julioccastrop\\Source\\Repos\\JCCP910108\\API\\Web_API_Prueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julioccastrop\\.nuget\\packages\\derconverter\\3.0.0.82\\derconverter.3.0.0.82.nupkg.sha512",
     "C:\\Users\\julioccastrop\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

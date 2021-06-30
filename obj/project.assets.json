@@ -5835,11 +5835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Julio_Castro\\Proyectos\\API_NET_Core\\Web_API_Net_Core\\Web_API_Prueba.csproj",
+      "projectUniqueName": "C:\\Users\\julioccastrop\\Source\\Repos\\JCCP910108\\API\\Web_API_Prueba.csproj",
       "projectName": "Web_API_Prueba",
-      "projectPath": "D:\\Julio_Castro\\Proyectos\\API_NET_Core\\Web_API_Net_Core\\Web_API_Prueba.csproj",
+      "projectPath": "C:\\Users\\julioccastrop\\Source\\Repos\\JCCP910108\\API\\Web_API_Prueba.csproj",
       "packagesPath": "C:\\Users\\julioccastrop\\.nuget\\packages\\",
-      "outputPath": "D:\\Julio_Castro\\Proyectos\\API_NET_Core\\Web_API_Net_Core\\obj\\",
+      "outputPath": "C:\\Users\\julioccastrop\\Source\\Repos\\JCCP910108\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
