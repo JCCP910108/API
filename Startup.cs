@@ -34,7 +34,6 @@ namespace Web_API_Prueba
             services.AddControllers().AddNewtonsoftJson();
 
             services.AddCors();
-
             services.AddControllers();
 
             var connecion = Configuration.GetConnectionString("DefaultConnection");
