@@ -8,10 +8,10 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
 COPY ["Web_API_Prueba.csproj", "."]
-RUN dotnet restore "./Web_API_Prueba.csproj"
+RUN dotnet restore "./Web_API_Prueba.csproj" linux-musl-x64
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "Web_API_Prueba.csproj" -c Release -o /app/build
+RUN dotnet build "Web_API_Prueba.csproj" -c Release -o /app/build linux-musl-x64
 
 FROM build AS publish
 RUN dotnet publish "Web_API_Prueba.csproj" -c Release -o /app/publish
